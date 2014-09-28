@@ -1,5 +1,8 @@
 #!/bin/ksh
 
+# Script de checksum récursif d'un dossier
+# Author : Matthieu Lefrançois (zepad@padcave.eu)
+
 ## Functions
 
 check_type() {
